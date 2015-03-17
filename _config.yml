@@ -3,7 +3,7 @@ title: Michael Falkowski's Blog
 email: michael@falkowski.me
 description: > # this means to ignore newlines until "baseurl:"
   I ♥ the web.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://falkowski.me" # the base hostname & protocol for your site
 twitter_username: falkulator
 github_username:  falkulator
